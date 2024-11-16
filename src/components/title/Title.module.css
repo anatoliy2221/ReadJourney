@@ -1,0 +1,12 @@
+.title {
+    font-weight: 700;
+    font-size: 64px;
+
+    line-height: 0.9375;
+    letter-spacing: 0.02em;
+    color: #f9f9f9;
+
+    span {
+        color: rgba(227, 227, 227, 0.5);
+    }
+}

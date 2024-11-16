@@ -1,0 +1,55 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    border-radius: 30px;
+    width: 600px;
+    height: 736px;
+    padding: 40px 64px;
+
+    background: #1f1f1f;
+}
+
+.input {
+    font-family: var(--font-family);
+    font-weight: 700;
+    font-size: 20px;
+
+    /* line-height: 20px; */
+    line-height: 1;
+    letter-spacing: 0.02em;
+    color: #1f1f1f;
+
+    background-color: #262626;
+
+    font-family: var(--font-family);
+    font-weight: 500;
+    font-size: 14px;
+
+    /* line-height: 18px; */
+    line-height: 1.28571;
+    letter-spacing: -0.02em;
+    text-align: center;
+    color: #686868;
+}
+
+
+.link {
+    font-family: var(--font-family);
+    font-weight: 500;
+    font-size: 14px;
+
+    text-align: center;
+    line-height: 1.28571;
+    letter-spacing: -0.02em;
+    text-decoration: underline;
+    text-decoration-skip-ink: none;
+    color: #686868;
+}
+
+.link:hover {
+    color: #f9f9f9;
+}
+
+.iconStyle {
+    background-color: #FFFFFF;
+}

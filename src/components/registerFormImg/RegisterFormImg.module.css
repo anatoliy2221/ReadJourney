@@ -1,0 +1,16 @@
+.container {
+    border-radius: 30px;
+    width: 600px;
+    height: 736px;
+    background-color: #1f1f1f;
+    padding-top: 80px;
+    overflow: hidden;
+
+}
+
+.tumb {
+    /* background-image: url('../../img/screen-here.jpg'); */
+    /* border-radius: 50px;
+    width: 366px;
+    height: 797px; */
+}
